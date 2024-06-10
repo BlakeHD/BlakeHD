@@ -17,21 +17,23 @@
 
 ###
 
-<br clear="both">
+<h2 align="center">MY PETS</h2>
 
-<img src="https://raw.githubusercontent.com/BlakeHD/BlakeHD/output/snake.svg" alt="Snake animation" />
+###
+
+
+<div align="center">
+  <a href="https://www.codedex.io/@BLAKEHAYEZ/30-nites-of-code">
+    <img src="https://www.codedex.io/api/petStatus?user=BLAKEHAYEZ"  />
+  </a>
+</div> 
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/BLVKE!">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=BLVKE!&count=3&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/p37051oqfena3f6gs8y1kssdk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p37051oqfena3f6gs8y1kssdk&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-## #30NitesOfCode:
-  [MY PETS!](https://www.codedex.io/@BLAKEHAYEZ/30-nites-of-code)  
-  ![@BLAKEHAYEZ #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BLAKEHAYEZ)
+</div> 

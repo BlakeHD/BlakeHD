@@ -1,6 +1,25 @@
-# 👋 Hello World, I'm Blake
+<h1 align="center">Hello World, I'm Blake! 👋</h1>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE2ejdpaHkzZHRvdTd4Z2tvcTEycGR3Zjc3NHVqOTZxM3dtbWs2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WU7nExjt9WpZXgc7rK/giphy.gif" />
+</p>
 
-### Entry-Level IT Support Specialist | Aspiring Network and Cloud Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=800&lines=CompTIA+A%2B+Certified;Google+IT+Support+Professional;Home+Lab+In+Progress...;CompTIA+Network%2B+In+Progress...;Linux+and+Coffee+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/628b9964-174a-4f8a-bc97-c7d3d468c434/public_url">
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+
+  <a href="YOUR_CREDENTIAL_URL">
+    <img src="https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+
+  <a href="YOUR_CREDENTIAL_URL">
+    <img src="https://img.shields.io/badge/Google-AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
 
 I'm an entry-level IT professional passionate about troubleshooting technology, supporting users, and continuously expanding my knowledge in systems administration, networking, cloud technologies, and cybersecurity. I enjoy building hands-on projects that strengthen my technical skills and prepare me for real-world IT environments.
 

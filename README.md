@@ -83,11 +83,13 @@ I'm an entry-level IT professional passionate about troubleshooting technology, 
 
 ## 🏠Projects
 
-### Active Directory Lab
+### 🖥️ [Active Directory Lab](https://github.com/BlakeHD/AI-Enabled-IT-Support-Capstone-Per-Scholas-HOU-01)
 
-*Objective:* Configure and manage a Windows domain environment.
-*Technologies:* Windows Server, Active Directory, DNS
-*Skills:* User management, Group Policy, Domain Administration
+Built a Windows Server domain environment to practice user management, Group Policy, and domain administration.
+* Objective: Configure and manage a Windows domain environment.
+* Technologies: Windows Server, Active Directory, DNS
+* Skills: User management, Group Policy, Domain Administration
+
 ---
 
 ## 📜 Certifications

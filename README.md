@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 
-  <a href="YOUR_CREDENTIAL_URL">
+  <a href="https://coursera.org/share/73251fc77fd0c6859d65d3128fe5676f">
     <img src="https://img.shields.io/badge/Google-AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>

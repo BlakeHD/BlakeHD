@@ -26,6 +26,7 @@ I'm an entry-level IT professional passionate about troubleshooting technology, 
 ---
 ## 🤝 Connect With Me
 * LinkedIn: www.linkedin.com/in/blakeortiz-tx
+---
 
 ## 🚀 Current Focus
 
@@ -35,6 +36,17 @@ I'm an entry-level IT professional passionate about troubleshooting technology, 
 * Networking fundamentals (TCP/IP, DNS, DHCP)
 * PowerShell automation
 * IT troubleshooting and support best practices
+
+---
+
+## 🏠Projects
+
+### 🖥️ [Active Directory Lab](https://github.com/BlakeHD/AI-Enabled-IT-Support-Capstone-Per-Scholas-HOU-01)
+
+Built a Windows Server domain environment to practice user management, Group Policy, and domain administration.
+* Objective: Configure and manage a Windows domain environment.
+* Technologies: Windows Server, Active Directory, DNS
+* Skills: User management, Group Policy, Domain Administration
 
 ---
 
@@ -78,17 +90,6 @@ I'm an entry-level IT professional passionate about troubleshooting technology, 
 * GitHub
 * VirtualBox
 * VMware
-
----
-
-## 🏠Projects
-
-### 🖥️ [Active Directory Lab](https://github.com/BlakeHD/AI-Enabled-IT-Support-Capstone-Per-Scholas-HOU-01)
-
-Built a Windows Server domain environment to practice user management, Group Policy, and domain administration.
-* Objective: Configure and manage a Windows domain environment.
-* Technologies: Windows Server, Active Directory, DNS
-* Skills: User management, Group Policy, Domain Administration
 
 ---
 

@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
 
-  <a href="YOUR_CREDENTIAL_URL">
+  <a href="https://coursera.org/share/1c789e4caefafef0e06cb288a259d8d5">
     <img src="https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 
